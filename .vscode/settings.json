@@ -23,6 +23,5 @@
         "node_modules/**": true,
         "typings/**": true
     },
-    "typescript.tsdk": "./node_modules/typescript/lib",
-    "eslint.enable": true
+    "typescript.tsdk": "./node_modules/typescript/lib"
 }

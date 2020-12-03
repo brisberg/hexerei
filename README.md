@@ -15,9 +15,6 @@ Download the latest source [here](https://github.com/screepers/screeps-typescrip
 Open the folder in your terminal and run your package manager to install the required packages and TypeScript declaration files:
 
 ```bash
-# npm
-npm install
-
 # yarn
 yarn
 ```
